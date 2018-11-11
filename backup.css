@@ -314,18 +314,10 @@ p, span, a{
 /*	background: #222;
 	opacity: 0.6;
 	transition: 0.5s; */
-/* original content  
+
   background-color: #222;
-  transition: 0.3s; */
-
-background-color: #222;
-width: 0%;
-transition: width 0.5s ease-in-out;
+  transition: 0.3s;
   
-}
-
- .progress-bar:hover{
-color: white;
 }
 
 /*original
@@ -334,19 +326,17 @@ color: white;
   background: #3e8e41;
   color: white; 
 } */
-/*
+
  .progress-bar:after {
-  position: absolute;
   background: #3e8e41;
-  width: 0%;
+  
   transition: width 0.5s ease-in-out; 
 } 
 
- .progress-bar:hover:after {
-  width: 100%;  
-} 
-
-*/
+/* .progress-bar:hover:after {
+  width: 
+  color: white; 
+} */
 
 .exp + .exp{
     margin-top: 60px;
@@ -376,39 +366,10 @@ color: white;
 }
 
 /* linkkkksss ? */
-a{
- background-color: transparent !important;
- text-decoration: none;
- padding: none;
-}
+#cv 
 
- a:link{
-color: #222;
-text-decoration: none;
-/* text-transform: uppercase;*/
-}
 
-a:hover{
-background: transparent !important;
-text-decoration: none;
-transition: 0.6s 
-color: #5B8973;
-}
 
-a:focus{
-text-decoration:none;
-color: #000;
-}
-
-a:active{
-text-decoration: none;
-color: #000;
-}
-
-a:visited{
-text-decoration: none;
-color: #000;
-}
 
 /* P O R T F O L I O */
 
